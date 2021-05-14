@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>admerus-eureka</module>
+        <module>admerus-gateway</module>
     </modules>
 
     <name>Admerus</name>
